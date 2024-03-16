@@ -41,6 +41,11 @@ This repository contains a Risk Calculator App built using Python and PyQt5. The
 - You can then generate a report by clicking on the "Generate Report" button, which will provide insights into credit risk predictions based on climate change data and TCFD recommendations.
 - Additionally, you can view historical data by clicking on the "View History" button.
 - To visualize the causal structure model, click on the "Train Model" button.
+  
+## Screenshots
+ - Initial screen of the application (https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png)
+
+ - Displaying the Report (https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png) 
 
 ## Contributors
 - [Contributor 1](https://github.com/contributor1)
