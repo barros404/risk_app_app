@@ -90,14 +90,10 @@ For any inquiries or support, you can reach out to the project maintainer:
 - Enhance model training and prediction capabilities
 
 ## Screenshots
-  -Initial screen of the application
 ![Initial screen of the application](https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png)
-  -Displaying the Report
 ![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-56-19.png?raw=true) 
-![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-57-02.png?raw=true) 
-  -Displaying the Charts
+![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-57-02.png?raw=true)
 ![Displaying the charts](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-09%2015-05-28.png?raw=true)
-
 ![ Displaying the charts](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-09%2015-07-47.png?raw=true)
 
 ## Disclaimer
