@@ -42,12 +42,6 @@ This repository contains a Risk Calculator App built using Python and PyQt5. The
 - Additionally, you can view historical data by clicking on the "View History" button.
 - To visualize the causal structure model, click on the "Train Model" button.
   
-## Screenshots
-![Initial screen of the application](https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png)
-
-![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-56-19.png?raw=true) 
-![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-57-02.png?raw=true) 
-
 ## Contributors
 - [Contributor 1](https://github.com/contributor1)
 - [Contributor 2](https://github.com/contributor2)
@@ -95,8 +89,16 @@ For any inquiries or support, you can reach out to the project maintainer:
 - Improve user interface for better user experience
 - Enhance model training and prediction capabilities
 
-## References
-- [Example Reference](https://example.com)
+## Screenshots
+  -Initial screen of the application
+![Initial screen of the application](https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png)
+  -Displaying the Report
+![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-56-19.png?raw=true) 
+![Displaying the Report](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-16%2003-57-02.png?raw=true) 
+  -Displaying the Charts
+![Displaying the charts](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-09%2015-05-28.png?raw=true)
+
+![ Displaying the charts](https://github.com/barros404/risk_app_app/blob/main/Screenshot%20from%202024-03-09%2015-07-47.png?raw=true)
 
 ## Disclaimer
 This application is provided as-is, without any warranties or guarantees. Use at your own risk.
