@@ -43,7 +43,7 @@ This repository contains a Risk Calculator App built using Python and PyQt5. The
 - To visualize the causal structure model, click on the "Train Model" button.
   
 ## Screenshots
- - Initial screen of the application (https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png)
+![Initial screen of the application](https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png)
 
  - Displaying the Report (https://raw.githubusercontent.com/barros404/risk_app_app/main/Screenshot%20from%202024-03-16%2003-42-34.png) 
 
